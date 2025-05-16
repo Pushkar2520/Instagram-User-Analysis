@@ -21,3 +21,5 @@ In this project, SQL is used in MySQL Workbench to analyze Instagram user data f
  Your Task: Calculate the average number of posts per user on Instagram. Also, provide the total number of photos on Instagram divided by the total number of users.
 - Bots & Fake Accounts: Investors want to know if the platform is crowded with fake and dummy accounts.
   Your Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
+
+  <a href="https://github.com/Pushkar2520/Instagram-User-Analysis/blob/main/SQL%20Task(KPIs).pptx">KPIs<a/>
