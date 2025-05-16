@@ -25,7 +25,7 @@ In this project, SQL is used in MySQL Workbench to analyze Instagram user data f
   <a href="https://github.com/Pushkar2520/Instagram-User-Analysis/blob/main/SQL%20Task(KPIs).pptx">KPIs<a/>
 
   # KPIs Solution
-  <a href="https://github.com/Pushkar2520/Instagram-User-Analysis/blob/main/Instagram%20User%20Analysis.pptx">Analysis Report<a/>
+  <a href="https://github.com/Pushkar2520/Instagram-User-Analysis/blob/main/Instagram%20User%20Analysis.pptx">Insights Report<a/>
 
 # Final conclusion
 The analysis from this project has been crucial in finding patterns and trends that affect Instagram’s growth and user engagement. By understanding user behaviors and preferences, the insights can help develop new features, improve marketing, and increase user satisfaction. This project shows how data analysis can shape a product’s future and support decisions with strong evidence.
