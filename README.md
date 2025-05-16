@@ -23,3 +23,6 @@ In this project, SQL is used in MySQL Workbench to analyze Instagram user data f
   Your Task: Identify users (potential bots) who have liked every single photo on the site, as this is not typically possible for a normal user.
 
   <a href="https://github.com/Pushkar2520/Instagram-User-Analysis/blob/main/SQL%20Task(KPIs).pptx">KPIs<a/>
+
+  # KPIs Solution
+  <a href="https://github.com/Pushkar2520/Instagram-User-Analysis/blob/main/Instagram%20User%20Analysis.pptx">AnalysisReport<a/>
